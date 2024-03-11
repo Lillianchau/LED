@@ -33,6 +33,9 @@ public class LEDSubsystem implements Subsystem{
     }
 
     
+     /////////////
+     // MEDTHODS//
+     /////////////
 
       public void setRED() {
         this.setRGB(255,0,0);
